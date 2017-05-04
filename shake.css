@@ -169,10 +169,10 @@ body {
 
 
 .wobble, .im_first {
-  -webkit-animation-name: wobble;
-  -moz-animation-name: wobble;
-  -o-animation-name: wobble;
-  animation-name: wobble;
+  -webkit-animation-name: swing;
+  -moz-animation-name: swing;
+  -o-animation-name: swing;
+  animation-name: swing;
 }
 
 @-webkit-keyframes pulse {
